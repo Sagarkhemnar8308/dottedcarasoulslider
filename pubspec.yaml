@@ -1,7 +1,7 @@
 name: dottedcarasoulslider
 description: "We can add carasoul dotted with multiple images"
 version: 0.0.1
-homepage:
+homepage: https://github.com/Sagarkhemnar8308/dottedcarasoulslider.git
 
 environment:
   sdk: '>=3.2.6 <4.0.0'
