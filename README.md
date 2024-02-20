@@ -2,6 +2,8 @@
 
 `dottedcarasoulslider` Flutter widget adds dots to the carasoulslider .
 
+![demo](https://user-images.githubusercontent.com/29194552/148517560-6f41a081-9b34-4975-9052-a2855d46b555.gif)
+
 ## Features
 
  - adding a dots in a carsouls
